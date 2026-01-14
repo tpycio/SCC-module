@@ -83,12 +83,17 @@ Connect to USB-to-serial converter.
 
 ### Changes
 
+* Version 2.21
+  
+  * Production files have been corrected.
+
 * Version 2.2
   
   * Initial version
+    ATTENTION! The production files lacked the ground connection to the U2 and U4 circuits. Please add them. The damaged production file is no longer available.
 
 ## License
 
-Copyright 2025 Tadeusz Pycio
+Copyright 2026 Tadeusz Pycio
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) ](https://creativecommons.org/licenses/by-nc/4.0/).
